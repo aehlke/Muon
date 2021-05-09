@@ -4,3 +4,4 @@ Muon.xcodeproj/xcuserdata
 .build
 .swiftpm
 *swp
+.DS_Store
